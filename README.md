@@ -1,2 +1,2 @@
-# Sequential-lists-Doubly-linked-lists-polynomial-lists-
-This was a course assignment. 
+# Lists-Implementation
+This project involved the creation and implementation of sequential lists, doubly linked lists, and polynomials. 
